@@ -1,4 +1,6 @@
- # This is mario game. 
+ # This is mario game project for MIPT (1 class) 
+ 
+ # Sorry for 2 python. 
  
  Installing with running following command inside current directory: 
     
